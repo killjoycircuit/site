@@ -15,21 +15,5 @@ export const experiences = [
       },
     ],
   },
-  {
-    role: "Software Developer Intern",
-    company: "Kalvium",
-    location: "Bangalore, India",
-    dateRange: "Jun 2025 — Sep 2025",
-    bullets: [
-      {
-        text: "Worked closely with the CTO to build a Chrome extension using ReactJs and Supabase to help students solve competitive programming problems, converted into an NPM package using Typescript, wrote 100 tests with Jest and onboarded 20+ users to validate the PoC.",
-        highlights: ["CTO", "Chrome extension", "ReactJs and Supabase", "NPM package", "Typescript", "100 tests", "Jest", "20+ users"],
-      },
-      {
-        text: "Conducted daily sessions on LLMs and building agents with GenAI, attended by 400+ students, with 250+ completing hands-on projects.",
-        highlights: ["LLMs", "GenAI", "400+", "250+"],
-      },
-    ],
-  },
   
 ];

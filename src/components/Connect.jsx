@@ -21,11 +21,6 @@ const socialLinks = [
     ),
   },
   {
-    label: "Upwork",
-    href: "https://upwork.com/",
-    icon: <ExternalLink size={16} />,
-  },
-  {
     label: "Resume",
     href: "#",
     icon: <FileText size={16} />,

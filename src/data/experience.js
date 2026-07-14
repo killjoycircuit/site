@@ -6,14 +6,21 @@ export const experiences = [
     dateRange: "June 2025 — August 2026",
     bullets: [
       {
-        text: "Built AI chatbots querying 5+ data sources to automate tasks and improve support speed and efficiency.",
-        highlights: ["AI chatbots", "5+ data sources", "support speed and efficiency"],
+        text: "Designed and developed 22 RESTful API endpoints for campaign management and authentication using Node.js and Express.js as part of Sahayog, a MERN-stack platform.",
+        highlights: ["22 RESTful API endpoints", "Node.js", "Express.js", "Sahayog", "MERN-stack"],
       },
       {
-        text: "Developed a Next.js monitoring dashboard and n8n workflows to optimize operations and reduce manual work.",
-        highlights: ["Next.js monitoring dashboard", "n8n workflows", "reduce manual work"],
+        text: "Built reusable React components and state-driven UI workflows, ensuring structured integration between frontend and backend.",
+        highlights: ["reusable React components", "state-driven UI workflows", "frontend and backend"],
+      },
+      {
+        text: "Implemented JWT-based authentication and role-based access control to secure application endpoints.",
+        highlights: ["JWT-based authentication", "role-based access control"],
+      },
+      {
+        text: "Collaborated using Git with a branching and pull-request workflow for coordinated feature development.",
+        highlights: ["Git", "branching and pull-request workflow", "coordinated feature development"],
       },
     ],
   },
-  
 ];
